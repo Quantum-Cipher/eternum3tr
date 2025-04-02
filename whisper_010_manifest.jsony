@@ -1,0 +1,17 @@
+{
+  "name": "Eternum Genesis Token",
+  "symbol": "ETRGEN",
+  "version": "1.0",
+  "source": "contracts/EternumGenesis.sol",
+  "owner": "Quantum-Cipher",
+  "vault": "0xa07d13a8e0BA4D9dDd372F6Bf8479c6B585B692a",
+  "supply": "1000000",
+  "compiler": "Solidity 0.8.19",
+  "verified": true,
+  "auditReady": true,
+  "pinned": true,
+  "deployed": false,
+  "ipfs_cid": "QmYourActualCID",
+  "whisper_log": "010"
+}
+

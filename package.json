@@ -1,0 +1,23 @@
+{
+  "name": "eternum3tr",
+  "version": "1.0.0",
+  "description": "Eternum Genesis Token Deployment - ETRGEN",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.19",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "dotenv": "^16.4.7"
+  },
+  "keywords": [
+    "eternum",
+    "genesis",
+    "hardhat",
+    "erc20",
+    "deployment"
+  ],
+  "author": "Quantum-Cipher ♾️",
+  "license": "MIT"
+}
