@@ -1,5 +1,5 @@
 #!/bin/bash
-# Quantum Cipher Ghostwire Sentinel Link
+# Quantum-Cipher Ghostwire Sentinel Link
 
 # Start Ghostwire Sentinel if not already running
 if ! pgrep -f ghostwire-sentinel.sh > /dev/null; then
